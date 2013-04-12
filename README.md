@@ -1,7 +1,7 @@
 Lisp-CPP
 ========
 
-Simple Lisp C++ interpreter build just for fun. See also this Haskell implementation: https://github.com/arianvp/Haskeme/tree/develop/src/Language/Haskeme.
+Simple Lisp C++ interpreter built just for fun. See also this Haskell implementation: https://github.com/arianvp/Haskeme/tree/develop/src/Language/Haskeme.
 
 Installation
 ------------
