@@ -1,7 +1,7 @@
-Lisp-CPP
+Scheme-CPP
 ========
 
-Simple Lisp C++ interpreter built just for fun. See also this Haskell implementation: https://github.com/arianvp/Haskeme/tree/develop/src/Language/Haskeme.
+Simple Scheme C++ interpreter built just for fun. See also this Haskell implementation: https://github.com/arianvp/Haskeme/tree/develop/src/Language/Haskeme.
 
 Installation
 ------------
@@ -14,3 +14,7 @@ Functions
 - default functions are + and *. 
 - you can add more functions in functions.cpp
 - add the defined function to the init-procedure in interpreter.cpp
+
+Bonus
+---------
+Small part of the solutions for the problem in SICP (http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html), where I learned Scheme from.
