@@ -17,4 +17,4 @@ Functions
 
 Bonus
 ---------
-Small part of the solutions for the problem in SICP (http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html), where I learned Scheme from.
+Small part of the solutions for the SICP (http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-4.html) problems, where I learned Scheme from.
